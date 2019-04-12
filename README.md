@@ -1,0 +1,2 @@
+# GreetingKata
+Sample Kata
